@@ -9,3 +9,6 @@ Built Simple Bible Search Engine using the [Kings James version Bible](https://w
 ## Demo
 
 <img src="demo_gif.gif" width="75%" height="50%"/>
+
+
+Update: 'Search Engine Adaptable' is more flexible than previous version. It's able to change the document to search. 
