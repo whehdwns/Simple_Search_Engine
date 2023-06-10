@@ -1,4 +1,4 @@
-# Bible_Search_Engine
+# Simple_Search_Engine
 Built Simple Bible Search Engine using the [Kings James version Bible](https://www.kingjamesbibleonline.org/)
 - Using Cosine Similarity to rank each bible verse based on the query
   - Find relevant bible verse based on term frequency
